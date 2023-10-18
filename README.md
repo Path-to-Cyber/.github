@@ -1,1 +1,1 @@
-Repo contenant le README de l'organisation.
+Repo contenant le README public de l'organisation.
